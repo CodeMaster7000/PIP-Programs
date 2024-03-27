@@ -1,3 +1,3 @@
-# PIP Upgrader and Downgrader
+# PIP Prorgams
 
-2 PowerShell programs to upgrade PIP to the latest version, or downgrade PIP to any version of your choice (the latter being for a more naostalgic experience).
+3 Windows PowerShell programs to check your PIP version, upgrade to the latest version, or downgrade PIP to any version of your choice (for a more nostalgic experience).
